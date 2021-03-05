@@ -15,7 +15,7 @@ public class HR_Main {
 
     public static void main(String[] args) {
         //Creacion de objetos:
-        Employee e1 = new Employee();//tipo de dato, identificador, asignador, valor del objeto (tipo de objeto) CONSTRUCTOR
+        Employee e1 = new Employee();
         Employee e2 = new Employee();
         
         
